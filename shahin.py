@@ -1,0 +1,1 @@
+about_me = [{'age': 26, 'hobby': ['programming', 'gaming', 'watching movie']}]
